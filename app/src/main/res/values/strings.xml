@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FileDownloader</string>
+    <string name="permission_required">Permissions Required</string>
+    <string name="permission_msg">Needs all permissions to work properly. Grant them in settings. And try again.</string>
+    <string name="permission_goto">GOTO SETTINGS</string>
+
+</resources>
